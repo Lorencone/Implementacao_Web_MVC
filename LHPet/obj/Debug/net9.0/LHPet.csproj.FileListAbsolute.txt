@@ -94,3 +94,4 @@ C:\Users\Lorençone\Desktop\Senai\Codificação para Back-End\Atividade 4\Implem
 C:\Users\Lorençone\Desktop\Senai\Codificação para Back-End\Atividade 4\Implementacao_Web_MVC\LHPet\obj\Debug\net9.0\LHPet.pdb
 C:\Users\Lorençone\Desktop\Senai\Codificação para Back-End\Atividade 4\Implementacao_Web_MVC\LHPet\obj\Debug\net9.0\LHPet.genruntimeconfig.cache
 C:\Users\Lorençone\Desktop\Senai\Codificação para Back-End\Atividade 4\Implementacao_Web_MVC\LHPet\obj\Debug\net9.0\ref\LHPet.dll
+C:\Users\Lorençone\Desktop\Senai\Codificação para Back-End\Atividade 4\Implementacao_Web_MVC\LHPet\obj\Debug\net9.0\LHPet.sourcelink.json
